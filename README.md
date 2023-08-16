@@ -7,4 +7,8 @@ Has de tener **MongoDB** instalado en el ordenador para poder importarlo:
 npm i mongoose  
 
 ## Creamos un Token  
-Instalamos **jsonwebtoken**
+Instalamos **jsonwebtoken**  
+
+## Validar Token  
+Instalamos **npm i cookie-parser** y recuerda que para las r
+
