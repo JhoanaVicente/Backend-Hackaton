@@ -6,3 +6,5 @@ Primero bajamos **Nodemon**, que es un desarrollo programa de utilidad que puede
 Has de tener **MongoDB** instalado en el ordenador para poder importarlo:  
 npm i mongoose  
 
+## Creamos un Token  
+Instalamos **jsonwebtoken**
