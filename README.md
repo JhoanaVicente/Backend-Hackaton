@@ -16,5 +16,8 @@ Instalamos **npm i cookie-parser**
 Hemos comprobado con efectividad y con ayuda de ThunderClient los CRUD'S requeridos para el frontend.  
 
 ## Validación de datos con backend  
-Instalamos **ZOD** para comprobar los datos en determinadas formas para validar. Se utiliza con typescript pero tambien con Java. Es un modulo que puede ser usado en frontend y backend
+Instalamos **ZOD** para comprobar los datos en determinadas formas para validar. Se utiliza con typescript pero tambien con Java. Es un modulo que puede ser usado en frontend y backend.  
+
+## Configuracion del cliente  
+Comenzamos con **React**
 
