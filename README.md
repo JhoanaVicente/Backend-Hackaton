@@ -19,5 +19,8 @@ Hemos comprobado con efectividad y con ayuda de ThunderClient los CRUD'S requeri
 Instalamos **ZOD** para comprobar los datos en determinadas formas para validar. Se utiliza con typescript pero tambien con Java. Es un modulo que puede ser usado en frontend y backend.  
 
 ## Configuracion del cliente  
-Comenzamos con **React**
-
+Comenzamos con **React** para crear el frontend:  
+Terminal: **ctrl+c** para parar la terminal  
+npm create vite / framework: React / nombre del proyecto / variante: JavaScript.  
+Luego de haberlo creado entras ahi con:  
+cd **nombreDelProyecto** / npm install / npm run dev ( tanto para las terminales en Frontend y Backend)
