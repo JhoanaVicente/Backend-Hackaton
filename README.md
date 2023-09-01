@@ -23,4 +23,6 @@ Comenzamos con **React** para crear el frontend:
 Terminal: **ctrl+c** para parar la terminal  
 npm create vite / framework: React / nombre del proyecto / variante: JavaScript.  
 Luego de haberlo creado entras ahi con:  
-cd **nombreDelProyecto** / npm install / npm run dev ( tanto para las terminales en Frontend y Backend)
+cd **nombreDelProyecto** / npm install / npm run dev ( tanto para las terminales en Frontend y Backend)  
+
+Para crear una simulación de enrutado y páginas vamos a **REACT ROUTER** y lo instalamos (Recuerda siempre estar en la terminal adecuada: **terminal frontend: ctrl + c / npm i react-router-dom / npm run dev)**  ### Me recuerda mucho estas paginas a las Rutas de Svelte.
