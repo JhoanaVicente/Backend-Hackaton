@@ -10,5 +10,10 @@ npm i mongoose
 Instalamos **jsonwebtoken**  
 
 ## Validar Token  
-Instalamos **npm i cookie-parser** y recuerda que para las r
+Instalamos **npm i cookie-parser**  
+
+## Task Crud  
+Hemos comprobado con efectividad y con ayuda de ThunderClient los CRUD'S requeridos para el frontend.  
+
+## Validación de datos con backend
 
