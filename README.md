@@ -32,3 +32,6 @@ React Hook Form nos ofrece la capacidad de desarrollar nuestros formularios de m
 npm install react-hook-form.  
 Tambien instalamos una biblioteca de **fetch** npm i axios  
 Configuramos CORS con npm i cors en el backend para que no haya problemas despues.  
+
+## Contexto de Usuario  
+Guardando datos de autenticcacion de usuario
