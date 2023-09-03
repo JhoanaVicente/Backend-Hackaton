@@ -25,4 +25,10 @@ npm create vite / framework: React / nombre del proyecto / variante: JavaScript.
 Luego de haberlo creado entras ahi con:  
 cd **nombreDelProyecto** / npm install / npm run dev ( tanto para las terminales en Frontend y Backend)  
 
-Para crear una simulación de enrutado y páginas vamos a **REACT ROUTER** y lo instalamos (Recuerda siempre estar en la terminal adecuada: **terminal frontend: ctrl + c / npm i react-router-dom / npm run dev)**  ### Me recuerda mucho estas paginas a las Rutas de Svelte.
+Para crear una simulación de enrutado y páginas vamos a **REACT ROUTER** y lo instalamos (Recuerda siempre estar en la terminal adecuada: **terminal frontend: ctrl + c / npm i react-router-dom / npm run dev)**  ### Me recuerda mucho estas paginas a las Rutas de Svelte.  
+
+## Registro de Usuario  
+React Hook Form nos ofrece la capacidad de desarrollar nuestros formularios de manera no controlada, independizando todo cambio que pueda producirse en cada uno de los elementos del formulario, evitando con ello renders innecesarios, haciendo uso de hooks y con una sencillez total.  
+npm install react-hook-form.  
+Tambien instalamos una biblioteca de **fetch** npm i axios  
+Configuramos CORS con npm i cors en el backend para que no haya problemas despues.  
