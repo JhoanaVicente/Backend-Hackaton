@@ -46,7 +46,6 @@ function RegisterPage() {
                 <p className="text-red-500">Email is required</p>
             )}
 
-
                 <input type="password" {...register('password', {required: true})}
                     className='w-full bg-zinc-700 text-white px-4 py-2 rounded-md my-2'
                     placeholder='Password'
@@ -54,7 +53,6 @@ function RegisterPage() {
                 {errors.password && (
                 <p className="text-red-500">Password is required</p>
             )}
-
 
                 <button type='submit'>Register</button>
             </form>

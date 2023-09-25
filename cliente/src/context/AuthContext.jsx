@@ -1,4 +1,4 @@
-import { createContext, useContext, useState } from "react";
+import { createContext, useState, useContext } from "react";
 import { registerRequest } from '../api/auth';
 import { set } from "mongoose";
 
@@ -30,15 +30,15 @@ export const AuthProvider = ({ children }) => {
     };
 
     return (
-    <AuthContext.Provider
-     value={{
-        signup,
-        user,
-        isAuthenticated,
-        errors
-     }}
-     >
-        {children}
-    </AuthContext.Provider>
+        <AuthContext.Provider
+            value={{
+                signup,
+                user,
+                isAuthenticated,
+                errors
+            }}
+        >
+            {children}
+        </AuthContext.Provider>
     );
 };
